@@ -4,6 +4,7 @@ public class Product {
 
     String name;
     String lastName;
+    String nanaAddo;
 
     public Product(String name) {
         this.name = name;
